@@ -95,4 +95,5 @@ Here are some of my milestone projects (to be updated as I progress!):
 # 🏆 GitHub Stats
 
 
-![image](https://github.com/user-attachments/assets/2a942b1a-99a4-40d6-b474-91e0470bd70f)
+![image](https://github.com/user-attachments/assets/8e511f45-4275-4c6b-b88a-600bd00e8558)
+
