@@ -20,11 +20,13 @@
 
 Currently learning:
 
-![image](https://github.com/user-attachments/assets/66a27af0-5739-47c7-9f85-ec158be5bd6f)
+![image](https://github.com/user-attachments/assets/b933ca9a-e6d0-4a36-9cfd-c993084f1d7e)
 
 
 
-![image](https://github.com/user-attachments/assets/4235f54e-7648-488c-854c-f4248f79b340)
+
+![image](https://github.com/user-attachments/assets/923412b7-47df-42df-91d1-2b9f2c9d551e)
+
 
 
 
@@ -33,13 +35,16 @@ Future Technologies:
 
 
 
-![image](https://github.com/user-attachments/assets/b33a2f88-71a8-4f48-9a21-424090b1d06f) ![image](https://github.com/user-attachments/assets/5d685638-6331-4deb-802a-a60ea9b44696) ![image](https://github.com/user-attachments/assets/8ef3bd1d-1da7-4995-9dac-3e5b43b37379)
+![image](https://github.com/user-attachments/assets/175fa465-a837-45be-9f4c-29c9da01f166)
+![image](https://github.com/user-attachments/assets/4ff49309-649e-4fa6-8052-12544dd81e43)
+![image](https://github.com/user-attachments/assets/ee52dbc4-243c-40e9-ba33-ad13d37876dc)
 
 
 
 
-![image](https://github.com/user-attachments/assets/f5c497c0-4876-464d-94c0-062477907a8c)
 
+
+![image](https://github.com/user-attachments/assets/486321c8-f942-401d-b634-a56128bbf7f4)
 
 # 🏆 Soft Skills
 🤝 Teamwork & Collaboration
@@ -61,7 +66,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 🔹 Status: ✅ Completed
 
-# 2️⃣ Personal Portfolio (Coming Soon!)
+ 2️⃣ Personal Portfolio (Coming Soon!)
 
 🔹 Description: A simple portfolio to showcase my projects.
 
@@ -77,10 +82,10 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 # 📫 Connect with Me
 
-![image](https://github.com/user-attachments/assets/70ac017a-81bd-41e5-bdae-e5c17bf5324b)
+![image](https://github.com/user-attachments/assets/4f82f380-4325-45b1-b1b1-f74e1ff7123f)
 
 
-![image](https://github.com/user-attachments/assets/5bfffaaf-f20e-403d-80b4-1a918149e4d1) 
+![image](https://github.com/user-attachments/assets/7e9bb968-122f-40b6-a26f-0e20190e2f2f)
 
 📧 Email: dineomjodi@gmail.com
 
@@ -90,4 +95,5 @@ Here are some of my milestone projects (to be updated as I progress!):
 # 🏆 GitHub Stats
 
 
-![image](https://github.com/user-attachments/assets/2a942b1a-99a4-40d6-b474-91e0470bd70f)
+![image](https://github.com/user-attachments/assets/8e511f45-4275-4c6b-b88a-600bd00e8558)
+
